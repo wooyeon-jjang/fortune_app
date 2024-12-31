@@ -1,7 +1,12 @@
-# FortuneApp
+# Fortune App
 
-A new Flutter project.
+Flutter로 제작된 운세 앱입니다.
 
-## Getting Started
+## 기능
+- 운세 확인
+- 포춘 쿠키
+- 타로 카드
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+## 개발 환경
+- Flutter
+- Dart
